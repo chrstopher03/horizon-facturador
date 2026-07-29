@@ -274,7 +274,7 @@ let y = 18;
 // LOGO
 //==============================
 
-let logo = await cargarLogo("1.jpeg");
+let logo = await cargarLogo("2.jpeg");
 
 
 if(logo){
